@@ -7,9 +7,12 @@ Bitte fügt in diese Datei noch eure Namen und Matrikelnummern ein.
 | Sheet       | Ex. 1    | Ex. 2    | Ex. 3    | Ex. 4    | Ex. 5    | Sum          |
 | ----------- | -------- | -------- | -------- | -------- | -------- | ------------ |
 | Homework 01 | 4/4      | 4.5/6    | 3.75/5   | 4/5      | -        | 16.25/20     |
-| Homework 02 | 3.75/4.5 | 2.5/4.5  | 5.5/6    | X/5      | -        | (11,75+X)/20 |	Individuell unterschiedlich
+| Homework 02 | 3.75/4.5 | 2.5/4.5  | 5.5/6    | X/5      | -        | (11,75+X)/20 |
+| Homework 03 | 0/8      | 0/5.5    | 0/6.5    | -        | -        | 0/20         |
 
 ### Erläuterungen zur Bewertung
+
+Keine korrigierbare Abgabe für HW03, da die PDF-Datei HM3 beschädigt ist und nicht geöffnet werden kann.
 
 HW02:
 - Ex. 1: Schritt 5 fehlt. Die Abzweigung bezieht sich nicht darauf, ob die Lehrpersonen die eingegebenen Zeiten bestätigt, sondern ob nach der Analyse durch das System Änderungen an den Eingaben gemacht werden sollen. Der Adjustment-Branch führt eigentlich in eine Schleife, die wieder vor den Fork zurückführt.
