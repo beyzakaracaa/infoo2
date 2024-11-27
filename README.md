@@ -2,7 +2,7 @@
 
 Gruppenmitglieder: Beyza Karaca (7422370), Amal Bolakhrif (7423946), Lena Igoumrane (7424588)
 
-# Anmerkung
+# Message
 - Hier nochmal kurz eine Anmerkung von uns, dass nun lediglich die fehlenden Java-Projekt-Dateien (HW03 und HW04 EX02a) aus https://github.com/ammmall/infoo2.git hinzugefügt wurden.
 - Und Aufgabe 4 aus Homework 4 wurde nicht vergessen, sie stand/ steht nämlich direkt unter der Lösung zu Aufgabe 1.
 
