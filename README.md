@@ -1,6 +1,7 @@
 # infoo2
 
 Bitte fügt in diese Datei noch eure Namen und Matrikelnummern ein.
+Gruppe: Amal Bolakhrif (7423946), Beyza Karaca (7422370), Lena Igoumrane (7424588)
 
 # Grading
 
