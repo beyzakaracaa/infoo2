@@ -4,7 +4,7 @@ Bitte fügt in diese Datei noch eure Namen und Matrikelnummern ein.
 Gruppe: Amal Bolakhrif (7423946), Beyza Karaca (7422370), Lena Igoumrane (7424588)
 
 # Anmerkung
-Hier nochmal kurz eine Anmerkung, dass nun lediglich die fehlenden Java-Projekt-Dateien aus … hinzugefügt wurden.
+Hier nochmal kurz eine Anmerkung von uns, dass nun lediglich die fehlenden Java-Projekt-Dateien aus https://github.com/ammmall/infoo2.git hinzugefügt wurden.
 Und Aufgabe 4 aus Homework 4 wurde nicht vergessen, sie steht oder stand nämlich direkt unter der Lösung zu Aufgabe 1.
 
 # Grading
