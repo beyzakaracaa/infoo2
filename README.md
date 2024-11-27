@@ -9,6 +9,7 @@ Bitte fügt in diese Datei noch eure Namen und Matrikelnummern ein.
 | Homework 01 | 4/4      | 4.5/6    | 3.75/5   | 4/5      | -        | 16.25/20     |
 | Homework 02 | 3.75/4.5 | 2.5/4.5  | 5.5/6    | X/5      | -        | (11,75+X)/20 |
 | Homework 03 | 0/8      | 0/5.5    | 0/6.5    | -        | -        | 0/20         |
+| Homework 04 | 4,5/5    | 2,5/5    | 6,5/7    |  0/3     | -        | 13,5/20      |
 
 ### Erläuterungen zur Bewertung
 
