@@ -1,0 +1,9 @@
+### POST request: add a New Student
+POST http://localhost:8080/student
+Content-Type: application/json
+
+{
+  "name": "Jane Doe",
+  "matNr": "104567",
+  "subject": "Mathematics"
+}
