@@ -1,0 +1,2 @@
+### DELETE Request: delete Student by ID
+DELETE http://localhost:8080/student/130

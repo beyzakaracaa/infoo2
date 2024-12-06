@@ -1,0 +1,2 @@
+### GET request: get student by ID
+GET http://localhost:8080/student/4
